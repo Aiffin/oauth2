@@ -1,0 +1,1 @@
+web: gunicorn stuxnet.wsgi --log-file - 
